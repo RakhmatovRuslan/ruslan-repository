@@ -12,6 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Ruslan</h1>
+        <!--<h1>${user1.id}</h1>-->
     </body>
 </html>
